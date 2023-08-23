@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     //{ title: '欢迎来到我的博客', url: 'https://notion.iliuqi.com' },
-    { title: '人生南北多歧路|君向潇湘我向秦', url: 'https://notion.iliuqi.com' }
+    { title: '风起于青萍之末，浪成于微澜之间。 跌谷底也要开花，沉海底也能望月。 与其抱怨于黑暗，不如提灯向前行', url: 'https://notion.iliuqi.com' }
   ],
 
   // 英雄区(首页顶部大卡)
